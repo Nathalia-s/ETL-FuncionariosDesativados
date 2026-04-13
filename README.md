@@ -1,4 +1,4 @@
-# ETL - Multiplas fontes
+# Pipeline ETL
 Processo de ETL básico que pode ser usado no dia a dia para tratamento e manipulação de multiplas planilhas excel.
 O caso utilizado é referente a listagem de funcionarios desativados e suas respetivas lojas.
 
